@@ -1,0 +1,49 @@
+They're on my Linked List.
+
+As some day it may happen that an exam must be sat.
+I've got a little list, I've got a linked list.
+Of Data Structure topics that should be got down pat,
+And that never should be missed, that never should be missed.
+
+There's conditions pre- and post- that say what functions do.
+With abstract fields they work just find for ADT's too.
+There's pointers, links, and nothrow, and stuff upon the heap.
+There's classes for the ADTs and copies that are deep.
+Is it best to use an array or best to use a list.
+Let none of 'em be missed, let none of 'em be missed! 
+
+Chorus 
+He's got 'em on the list, on a linked list;
+And let none of 'em be missed, let none of 'em be missed! 
+
+There's sets, lists, and relations, and functions and there's pairs.
+No not the link-ed list, the ADT of lists.
+The distinction's worthwhile knowing, I'm not just splitting hairs.
+Let the difference not be missed, it never should be missed.
+
+Design your algorithms as abstractly as can be.
+Then implement the ADT's so that it's all in C.
+There's subroutines that call themselves, recursion is the name;
+It's great to solve subproblems that look about the same.
+They'll loop along forever, if the stop condition's missed.
+I don't think it should be missed, I'm sure it not be missed. 
+
+Chorus 
+He's got it on his list, on his linked list;
+And he don't think it should be missed, he's sure it not be missed. 
+  
+There's order of complexity, for putting functions with their kith,
+On this I must insist, I've got it on my list!
+So constants and the lesser terms can all be dispensed with.
+They'd none of 'em be missed, they'd none of them be missed.
+
+There's search trees for putting data in, to improve the average-case,
+From linear to logarithmic in case you're in great haste.
+And balanced trees like AVL, make size roughly phi to the height,
+So the height must be log base phi the size, now isn't that all right?
+And if you can understand that you're a data structurologist.
+And it won't go unnoticed, it won't go unnoticed. 
+
+Chorus 
+He'll put you on his list, high on his linked list;
+And you won't go unnoticed, you won't go unnoticed. 
